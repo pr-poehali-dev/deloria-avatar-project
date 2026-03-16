@@ -5,7 +5,7 @@ const AVATARS = [
     id: 1,
     label: "Вариант I — Корона & Роза",
     subtitle: "Crown & Rose",
-    url: "https://cdn.poehali.dev/projects/a42702b8-c05a-4fe4-b843-696510a7282f/files/433dd27d-63b3-4c92-9550-965686dbd7bd.jpg",
+    url: "https://cdn.poehali.dev/projects/a42702b8-c05a-4fe4-b843-696510a7282f/files/88b33140-fc4a-4453-bbf3-830a1a5d8195.jpg",
   },
   {
     id: 2,
